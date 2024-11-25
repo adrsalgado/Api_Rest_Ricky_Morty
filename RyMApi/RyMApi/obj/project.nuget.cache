@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ml5KLRNsJtw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adriana\\source\\repos\\RyMApi\\RyMApi\\RyMApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adriana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
